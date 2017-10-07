@@ -14,8 +14,10 @@ public class Contacts {
 		this.phoneNumber = phoneNumber;
 	}
 	private String name;
-	private String phoneNumber;
+	private String phoneNumber;	
 	
-	
+	public Contacts() {
+		
+	}
 
 }
